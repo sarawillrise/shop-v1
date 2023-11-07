@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "name": "Heels 1",
+    "category": 1,
+    "description": "Some description text here...",
+    "images": ["1.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 2,
+    "name": "Heels 2",
+    "category": 1,
+    "description": "Some description text here...",
+    "images": ["1.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 3,
+    "name": "Heels 3",
+    "category": 1,
+    "description": "Some description text here...",
+    "images": ["1.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 4,
+    "name": "Heels 4",
+    "category": 1,
+    "description": "Some description text here...",
+    "images": ["1.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 5,
+    "name": "Heels 5",
+    "category": 1,
+    "description": "Some description text here...",
+    "images": ["1.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+
+  {
+    "id": 6,
+    "name": "Dresses 1",
+    "category": 2,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 7,
+    "name": "Dresses 2",
+    "category": 2,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 8,
+    "name": "Dresses 3",
+    "category": 2,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 9,
+    "name": "Dresses 4",
+    "category": 2,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 10,
+    "name": "Dresses 5",
+    "category": 2,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+
+  {
+    "id": 11,
+    "name": "Bag 1",
+    "category": 3,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 12,
+    "name": "Bag 2",
+    "category": 3,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 13,
+    "name": "Bag 3",
+    "category": 3,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 14,
+    "name": "Bag 4",
+    "category": 3,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 15,
+    "name": "Bag 5",
+    "category": 3,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+
+  {
+    "id": 16,
+    "name": "Sports shoes 1",
+    "category": 4,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 17,
+    "name": "Sports shoes 2",
+    "category": 4,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 18,
+    "name": "Sports shoes 3",
+    "category": 4,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 19,
+    "name": "Sports shoes 4",
+    "category": 4,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 20,
+    "name": "Sports shoes 5",
+    "category": 4,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+
+  {
+    "id": 21,
+    "name": "Jackets 1",
+    "category": 5,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 22,
+    "name": "Jackets 2",
+    "category": 5,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 23,
+    "name": "Jackets 3",
+    "category": 5,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 24,
+    "name": "Jackets 4",
+    "category": 5,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 25,
+    "name": "Jackets 5",
+    "category": 5,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+
+  {
+    "id": 26,
+    "name": "Accessories 1",
+    "category": 6,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 27,
+    "name": "Accessories 2",
+    "category": 6,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 28,
+    "name": "Accessories 3",
+    "category": 6,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 29,
+    "name": "Accessories 4",
+    "category": 6,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 30,
+    "name": "Accessories 5",
+    "category": 6,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  },
+  {
+    "id": 31,
+    "name": "Modern dress 1",
+    "category": 7,
+    "description": "Some description text here...",
+    "images": ["1.jpg", "2.jpg"],
+    "price": 50,
+    "currency": "€"
+  }
+]

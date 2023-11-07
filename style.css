@@ -1,0 +1,186 @@
+body {
+    background-color: #fff5e0;
+    height: 100vh;
+}
+
+#main {
+    width: 50%;
+    height: auto; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px; 
+}
+
+.search-container {
+    background: white;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; 
+}
+
+input {
+    flex: 1;
+    border: none;
+    border-radius: 25px 0 0 25px;
+    font-size: 20px;
+    padding: 8px 20px;
+    outline: none;
+    background: white;
+}
+
+#search {
+    width: 50px;
+    height: 100%;
+    border: none;
+    cursor: pointer;
+    background: white;
+    font-size: 18px;
+}
+
+#search i {
+    color: rgb(93, 94, 95);
+}
+
+#search:hover i {
+    color: rgb(162, 163, 163);
+}
+
+.image-buttons {
+    display: flex;
+    flex-wrap: wrap; 
+
+
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background: white; 
+    border: none;
+    border-radius: 10px;
+    
+}
+
+.img img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+a {
+    text-decoration: none;
+    display: inline;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .previous {
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 15px;
+
+  }
+  
+  .next {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 80px;
+    height: 15px;
+  }
+  #options {
+    width: 50%;
+    height: auto; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px; 
+}
+  .img2 {
+    width: 300px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background: white; 
+    border: none;
+    border-radius: 10px
+}
+#search2 {
+    width: 50px;
+    height: 100%;
+    border: none;
+    cursor: pointer;
+    background: white;
+    font-size: 18px;
+}
+
+#search2 i {
+    color: rgb(93, 94, 95);
+}
+
+#search2:hover i {
+    color: rgb(162, 163, 163);
+}
+#kayit, #giriş {
+    width: 400px;
+    height: 300px;
+    margin: 100px;
+    background-color:#D0D4CA;
+    text-align: center;
+}
+#kayit label, #giriş label{
+    display: inline-block;
+    text-align: right;
+}
+#kayit input{
+    display: inline-block;
+    width: 350px;
+}
+#giriş input{
+    display: inline-block;
+    width: 350px;
+}
+h1{
+    text-align: center;
+}
+#kayit button, #giriş button{
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #F4DFB6;
+}
+.add{
+    width:90px ;
+    height: 30px;
+    background-color: red;
+}
+.cart-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.cart-item img {
+    width: 300px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background: white; 
+    border: none;
+    border-radius: 10px
+}
+
+.product-info {
+    text-align: left;
+}

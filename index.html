@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <title>Haze</title>
+  </head>
+  <body>
+    <div id="kayit" style="display: block">
+      <h1>Create Account</h1>
+      <label for="username">choose your username:</label>
+      <input type="text" placeholder="username" id="kayitNameInpt" />
+      <label for="email">enter your mail adress:</label>
+      <input type="text" placeholder="xxxxx@gmail.com" id="kayitMailInpt" />
+      <label for="password">choose your password:</label>
+      <input type="text" placeholder="********" id="kayitPassInpt" />
+      <button id="kayitBtn">Creatte Acc</button>
+      <a id="kayitSayfasiL" href="#">Already have a acc?</a>
+    </div>
+    <div id="giriş" style="display: none">
+      <h1>Login in to your account</h1>
+      <label for="username">enter your username:</label>
+      <input type="text" placeholder="username" id="girişNameInpt" />
+      <label for="password">enter your password:</label>
+      <input type="text" placeholder="********" id="girişPassInpt" />
+      <button id="girişBtn">Login</button>
+      <a id="girişSayfasiL" href="#">You don't have a acc?</a>
+    </div>
+
+    <div id="main" style="display: none">
+      <div class="search-container">
+        <input type="text" placeholder="Search" />
+        <button id="search" type="submit">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </button>
+      </div>
+      <div id="button-block"></div>
+      <a href="#" id="nextBtn1" class="next">Next &raquo;</a>
+    </div>
+    <div id="options" style="display: none">
+      <div class="search-container">
+        <input type="text" placeholder="Search" />
+        <button id="search2" type="submit">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </button>
+      </div>
+      <div id="button-block2"></div>
+      <a href="#" id="prev" class="previous">&laquo; Previous</a>
+    </div>
+    <div id="showProducts" style="display: none">
+      <div id="products"></div>
+      <a href="#" id="prev2" class="previous">&laquo; Previous</a>
+      <a href="#" id="cartBtn" class="next">go to cart &raquo;</a>
+    </div>
+    <div id="cartPage" style="display: none" class="cart-item">
+      <div id="cart-productsD">
+        <img src="images/accesories.webp" />
+        <div class="product-info"></div>
+      </div>
+      <a href="#" id="payBtn" class="next">go to check &raquo;</a>
+    </div>
+  </body>
+  <script src="app.js"></script>
+</html>

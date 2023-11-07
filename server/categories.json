@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Heels",
+    "image": "images/heels.jpeg",
+    "type": "byType"
+  },
+  {
+    "id": 2,
+    "name": "Dresses",
+    "image": "images/dress.jpeg",
+    "type": "byType"
+  },
+  {
+    "id": 3,
+    "name": "Bags",
+    "image": "images/bag.avif",
+    "type": "byType"
+  },
+  {
+    "id": 4,
+    "name": "Sports shoes",
+    "image": "images/sporshoe.jpeg",
+    "type": "byType"
+  },
+  {
+    "id": 5,
+    "name": "Jackets",
+    "image": "images/ceket.webp",
+    "type": "byType"
+  },
+  {
+    "id": 6,
+    "name": "Accessories",
+    "image": "images/accesories.webp",
+    "type": "byType"
+  },
+  {
+    "id": 7,
+    "name": "Modern",
+    "image": "images/modern.jpeg",
+    "type": "byGroup"
+  },
+  {
+    "id": 8,
+    "name": "Vintage",
+    "image": "images/vintage.webp",
+    "type": "byGroup"
+  },
+  {
+    "id": 9,
+    "name": "Gothic",
+    "image": "images/goth.png",
+    "type": "byGroup"
+  }
+]
